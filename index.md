@@ -14,7 +14,7 @@ Over here, I hope you will find something interesting.
 
 [SEM的二维演示](https://github.com/Dongsh/pySEMLAB), Refer to [SEMLAB](https://ww2.mathworks.cn/matlabcentral/fileexchange/6154-semlab)
 
-[CAE仿真分析类型]([https://www.jlao.net/emnotes/](https://github.com/Javonn-wang/Homepage/blob/gh-pages/CAE%E4%BB%BF%E7%9C%9F%E5%88%86%E6%9E%90%E7%B1%BB%E5%9E%8B.md))
+[CAE仿真分析类型](https://github.com/Javonn-wang/Homepage/blob/gh-pages/CAE%E4%BB%BF%E7%9C%9F%E5%88%86%E6%9E%90%E7%B1%BB%E5%9E%8B.md)
 
 ---
 ### Info
