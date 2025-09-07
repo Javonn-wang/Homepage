@@ -102,5 +102,3 @@ chmod +x ~/Desktop/firefox.desktop
 - **XFCE**：直接拖放 `.desktop` 文件到桌面即可。
 - **LXDE/LXQt**：与 XFCE 类似，支持直接拖放。
 - **MATE/Cinnamon**：通常支持直接双击创建快捷方式。
-
-根据你的桌面环境调整设置即可。如果仍有问题，请提供具体桌面环境名称，我可以提供更详细的指导！
