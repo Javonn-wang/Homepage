@@ -2,7 +2,6 @@
 ---------------------------
 Over here, I hope you will find something interesting.
 
-![pics](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpixfeeds.com%2Fimages%2Fdogs%2F1280-485524896-cute-dog.jpg&refer=http%3A%2F%2Fpixfeeds.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1639230824&t=440314ce6afea7258f2586d95d9cfece)
 
 
 推荐书籍/笔记：
@@ -14,6 +13,8 @@ Over here, I hope you will find something interesting.
 [冷水浴，你应该坚持做的运动](http://www.a-hospital.com/w/%E5%86%B7%E6%B0%B4%E6%B5%B4%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%9D%9A%E6%8C%81%E5%81%9A%E7%9A%84%E8%BF%90%E5%8A%A8)
 
 [SEM的二维演示](https://github.com/Dongsh/pySEMLAB), Refer to [SEMLAB](https://ww2.mathworks.cn/matlabcentral/fileexchange/6154-semlab)
+
+[CAE仿真分析类型]([https://www.jlao.net/emnotes/](https://github.com/Javonn-wang/Homepage/blob/gh-pages/CAE%E4%BB%BF%E7%9C%9F%E5%88%86%E6%9E%90%E7%B1%BB%E5%9E%8B.md))
 
 ---
 ### Info
